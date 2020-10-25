@@ -9,12 +9,12 @@ export default new Vuetify({
     theme: {
         themes: {
           light: {
-            primary: colors.red.darken3,
-            secondary: colors.green.darken3,
+            primary: colors.green.darken3,
+            secondary: colors.red.darken3,
           },
           dark: {
-            primary: colors.red.darken3,
-            secondary: colors.green.darken3,
+            primary: colors.green.darken3,
+            secondary: colors.red.darken3,
           },
         },
     },
